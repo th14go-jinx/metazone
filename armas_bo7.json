@@ -3,7 +3,7 @@
     "nome": "TR51 PARA",
     "tipo": "Fuzis de Batalha",
     "jogo": "BO7",
-    "status": "Novo",
+    "status": "",
     "arquivo_imagem": "armas/TR51-PARA.png",
     "acessorios": [
       {
@@ -48,7 +48,7 @@
     "nome": "VMP-9MM",
     "tipo": "SMT",
     "jogo": "BO7",
-    "status": "Novo",
+    "status": "Absolute Meta",
     "arquivo_imagem": "armas/VMP.png",
     "acessorios": [
       {
@@ -86,7 +86,7 @@
         "Tambor de 50 Projéteis"
       ]
     },
-    "ultima_atualizacao": "2026-10-09",
+    "ultima_atualizacao": "2026-10-10",
     "tier": ""
   },
   {
@@ -328,7 +328,7 @@
       ]
     },
     "patch_versao": "patch-notes-landing-template",
-    "ultima_atualizacao": "2026-10-09",
+    "ultima_atualizacao": "2026-10-10",
     "tier": ""
   },
   {
@@ -476,7 +476,7 @@
       ]
     },
     "patch_versao": "patch-notes-landing-template",
-    "ultima_atualizacao": "2026-10-09",
+    "ultima_atualizacao": "2026-10-10",
     "tier": ""
   },
   {
@@ -525,7 +525,7 @@
       ]
     },
     "patch_versao": "patch-notes-landing-template",
-    "ultima_atualizacao": "2026-10-09",
+    "ultima_atualizacao": "2026-10-10",
     "tier": ""
   },
   {
@@ -623,7 +623,7 @@
       ]
     },
     "patch_versao": "patch-notes-landing-template",
-    "ultima_atualizacao": "2026-10-09",
+    "ultima_atualizacao": "2026-10-10",
     "tier": ""
   },
   {
@@ -770,7 +770,7 @@
       ]
     },
     "patch_versao": "patch-notes-landing-template",
-    "ultima_atualizacao": "2026-10-09",
+    "ultima_atualizacao": "2026-10-10",
     "tier": ""
   },
   {
@@ -865,7 +865,7 @@
       ]
     },
     "patch_versao": "patch-notes-landing-template",
-    "ultima_atualizacao": "2026-10-09",
+    "ultima_atualizacao": "2026-10-10",
     "tier": ""
   },
   {
@@ -1313,7 +1313,7 @@
     "nome": "MXR-17",
     "jogo": "BO7",
     "tipo": "Fuzis de Assalto",
-    "status": "Absolute Meta",
+    "status": "",
     "arquivo_imagem": "armas/mxr-17.png",
     "acessorios": [
       {
@@ -1793,7 +1793,7 @@
       ]
     },
     "patch_versao": "patch-notes-landing-template",
-    "ultima_atualizacao": "2026-10-09",
+    "ultima_atualizacao": "2026-10-10",
     "tier": ""
   },
   {
@@ -1944,7 +1944,7 @@
     "nome": "Voyak KT-3",
     "jogo": "BO7",
     "tipo": "Fuzis de Assalto",
-    "status": "Meta",
+    "status": "Absolute Meta",
     "arquivo_imagem": "armas/voyak-kt-3.png",
     "acessorios": [
       {
@@ -1986,7 +1986,7 @@
       ]
     },
     "patch_versao": "patch-notes-landing-template",
-    "ultima_atualizacao": "2026-10-09",
+    "ultima_atualizacao": "2026-10-10",
     "tier": ""
   },
   {
@@ -2035,14 +2035,14 @@
       ]
     },
     "patch_versao": "patch-notes-landing-template",
-    "ultima_atualizacao": "2026-10-09",
+    "ultima_atualizacao": "2026-10-10",
     "tier": ""
   },
   {
     "nome": "VST SMG",
     "jogo": "BO7",
     "tipo": "Submetralhadoras",
-    "status": "Absolute Meta",
+    "status": "Meta",
     "arquivo_imagem": "armas/vst.png",
     "acessorios": [
       {
@@ -2084,7 +2084,7 @@
       ]
     },
     "patch_versao": "patch-notes-landing-template",
-    "ultima_atualizacao": "2026-10-09",
+    "ultima_atualizacao": "2026-10-10",
     "tier": ""
   },
   {
