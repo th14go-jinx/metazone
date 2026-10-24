@@ -48,7 +48,7 @@
     "nome": "VMP-9MM",
     "tipo": "SMT",
     "jogo": "BO7",
-    "status": "Absolute Meta",
+    "status": "",
     "arquivo_imagem": "armas/VMP.png",
     "acessorios": [
       {
@@ -286,7 +286,7 @@
     "nome": "Carbon 57",
     "jogo": "BO7",
     "tipo": "Submetralhadoras",
-    "status": "Meta",
+    "status": "",
     "arquivo_imagem": "armas/carbon-57.png",
     "acessorios": [
       {
@@ -434,7 +434,7 @@
     "nome": "Dravec 45",
     "jogo": "BO7",
     "tipo": "Submetralhadoras",
-    "status": "Meta",
+    "status": "",
     "arquivo_imagem": "armas/dravec-45.png",
     "acessorios": [
       {
@@ -483,7 +483,7 @@
     "nome": "DS20-Mirage",
     "jogo": "BO7",
     "tipo": "Fuzis de Assalto",
-    "status": "Meta",
+    "status": "",
     "arquivo_imagem": "armas/ds20-mirage.png",
     "acessorios": [
       {
@@ -581,7 +581,7 @@
     "nome": "EGRT-17",
     "jogo": "BO7",
     "tipo": "Fuzis de Assalto",
-    "status": "Meta",
+    "status": "",
     "arquivo_imagem": "armas/egrt-17.png",
     "acessorios": [
       {
@@ -728,7 +728,7 @@
     "nome": "Hawker HX",
     "jogo": "BO7",
     "tipo": "Fuzis de Atirador",
-    "status": "Meta",
+    "status": "",
     "arquivo_imagem": "armas/hawker-hx.png",
     "acessorios": [
       {
@@ -823,7 +823,7 @@
     "nome": "Kogot-7",
     "jogo": "BO7",
     "tipo": "Submetralhadoras",
-    "status": "Meta",
+    "status": "",
     "arquivo_imagem": "armas/kogot-7.png",
     "acessorios": [
       {
@@ -1751,7 +1751,7 @@
     "nome": "Strider 300",
     "jogo": "BO7",
     "tipo": "Fuzis de Atirador",
-    "status": "Absolute Meta",
+    "status": "",
     "arquivo_imagem": "armas/strider-300.png",
     "acessorios": [
       {
@@ -1944,7 +1944,7 @@
     "nome": "Voyak KT-3",
     "jogo": "BO7",
     "tipo": "Fuzis de Assalto",
-    "status": "Absolute Meta",
+    "status": "",
     "arquivo_imagem": "armas/voyak-kt-3.png",
     "acessorios": [
       {
@@ -1993,7 +1993,7 @@
     "nome": "VS Recon",
     "jogo": "BO7",
     "tipo": "Fuzis de Atirador",
-    "status": "Meta",
+    "status": "",
     "arquivo_imagem": "armas/vs-recon.png",
     "acessorios": [
       {
@@ -2042,7 +2042,7 @@
     "nome": "VST SMG",
     "jogo": "BO7",
     "tipo": "Submetralhadoras",
-    "status": "Meta",
+    "status": "",
     "arquivo_imagem": "armas/vst.png",
     "acessorios": [
       {
